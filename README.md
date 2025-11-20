@@ -53,3 +53,16 @@ Saat foto diambil, rotasi target diproses melalui metadata EXIF sehingga hasil f
 - `outputOptions()` → Membuat metadata file foto untuk MediaStore.
 - `takePhoto()` → Menangkap foto dan menyimpannya.
 - `bindPreview()` dan `bindImageCapture()` → Inisialisasi CameraX.
+
+# Hasil Foto Aplikasi KameraKu
+
+Di bawah ini adalah contoh hasil foto yang diambil menggunakan aplikasi kamera:
+
+## Kamera Belakang
+![Kamera Belakang](hasilFoto/KameraBelakang.jpg)
+
+## Kamera Depan
+![Kamera Depan](hasilFoto/KameraDepan.jpg)
+
+## Mode Flash
+![Flash](hasilFoto/Flash.jpg)
